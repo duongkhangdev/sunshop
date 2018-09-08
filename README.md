@@ -1,2 +1,2 @@
 # tedushop
-Khoá học AngularJS 2 + WebApi tại Tedu
+Khoá học Angular 6 + WebApi tại Tedu
